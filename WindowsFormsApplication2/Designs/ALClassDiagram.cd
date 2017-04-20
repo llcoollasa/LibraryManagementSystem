@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LibraryManagementSystem.LibrarianClass">
+    <Position X="5.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAACAAAAAAAAAQQQAAAAGAAACQAAAAgIEEAA=</HashCode>
+      <FileName>Classes\Librarian.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LibraryManagementSystem.BookClass">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIACAEAAQAAgAAAiMAAAJxAAAAUAAAIAAAIAQAACAA=</HashCode>
+      <FileName>Classes\Book.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagementSystem.CategoryClass">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAQAAAAAAAAAAAABAAAAAAAAAAAAg=</HashCode>
+      <FileName>Classes\Category.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagementSystem.MemberClass">
+    <Position X="10.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAQAAAAEgAQAAAAAAAAAgAAACIACAAgA=</HashCode>
+      <FileName>Classes\Member.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagementSystem.BorrowingClass">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AICCCAAAAAgAgIAAAAAAAQAAAAAEAAAABAACAACAAgQ=</HashCode>
+      <FileName>Classes\Borrowing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagementSystem.BookCollectionClass">
+    <Position X="3" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAIAAAAAAQAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\BookCollectionClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagementSystem.Database">
+    <Position X="2.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Database.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="LibraryManagementSystem.ICRUDOperations">
+    <Position X="3.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAQQAAAAAAAAAAAAAAAAIEAAA=</HashCode>
+      <FileName>Interfaces\ICRUDOperations.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
