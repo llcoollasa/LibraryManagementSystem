@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LibraryManagementSystem.LibrarianClass">
+    <Position X="5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAECAAAAAAAAAQQQAAAAEAAACQCAAAgIEEAA=</HashCode>
+      <FileName>Classes\Librarian.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LibraryManagementSystem.BookClass">
+    <Position X="10" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIACAEAAUCAgAAAiMAAQZxAAAAUAAAIACAIAQIECAA=</HashCode>
+      <FileName>Classes\Book.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LibraryManagementSystem.CategoryClass">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAECAAgAAQAAAQQAAAAAAABAAACAAAAIEAAg=</HashCode>
+      <FileName>Classes\Category.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LibraryManagementSystem.MemberClass">
+    <Position X="8.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAUCAAQAAAAEgQQAAAAAAAAAgACACIAKEAgA=</HashCode>
+      <FileName>Classes\Member.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LibraryManagementSystem.BorrowingClass">
+    <Position X="10.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AICCqABAAEiAgIQAAAAAUQAAAAAEAAAABCACAAKUAgQ=</HashCode>
+      <FileName>Classes\Borrowing.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LibraryManagementSystem.BookCollectionClass">
+    <Position X="9.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAEIAAAAAAQAAQAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\BookCollectionClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="LibraryManagementSystem.ICRUDOperations">
+    <Position X="12.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAECAAAAAAAAAQQAAAAAAAAAAACAAAAIEAAA=</HashCode>
+      <FileName>Interfaces\ICRUDOperations.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
